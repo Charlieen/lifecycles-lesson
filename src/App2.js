@@ -18,7 +18,7 @@ class App2 extends Component {
     //     return nextProps.text !== this.props.text;
     //   }
     
-    //      { showPerson ? <Person person={person}></Person> :null }
+    //      { powPerson ? <Person person={person}></Person> :null }
     // top inline object ,that means every time when  render refresh,there are a brand new 
     //  Person object  will past to Person as props;
     /**
